@@ -1,0 +1,8 @@
+1. The primary values that meesho provides is to give buyer sellers and reseller a platform to buy and sell the product and earn from online and connect them.
+2. Three Types of Users are Supplier, Reseller, Buyer.
+3. Reseller: is the perseon who Shares the link of the product, he is not the owner he just markets it and makes the commision out of it after delivery
+   Supplier: is the person who uploads the product maybe Owner or and wholesaler who sets the price and earn money on the sale he made.
+4. React offers us the Component which can we reuse at multiple places and it behaves as a single unit and creates a good UI and structered Code for UI and proides all buil in functionality that we dont have in HTML or JS plain
+5. Connects Frontend (UI) to Databases & Services,
+   Handles Core E-commerce Operations
+   Ensure Security
